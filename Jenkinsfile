@@ -53,6 +53,6 @@ pipeline {
 
         always {
             sh 'docker logout'
-        }
-    }
+ }
+}
 }
